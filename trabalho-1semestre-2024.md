@@ -4,6 +4,8 @@
 
 ## Tema: 
 
+Solução de Suite de aplicativos para escritório.
+
 ## Objetivo: 
 
 O(a) aluno(a) deve adquirir as competências básicas para auxiliar a tomada de decisão referente a quais aplicativos ou sistemas operacionais uma empresa deve adotar em seu ambiente informatizado, 
